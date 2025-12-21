@@ -1,5 +1,5 @@
 # 📈 Marketing Campaign Exploratory Data Analysis 
-This project analyzes marketing campaign performance using data from Kaggle. It includes data cleaning, descriptive statistics, correlation analysis, and hypothesis testing.
+This project analyzes marketing campaign performance using data from Kaggle. 
 
 ## 🔍 Objectives
 •	 Understand campaign effectiveness
@@ -27,7 +27,7 @@ Excel for cleaning and stats
 
 2)	🧪 Hypothesis Testing
    
-      •	ANOVA: Test Click-through rate (Clicks/Impressions), Conversion rate for leads (Leads/Clicks), Conversion rate for orders (Orders/Clicks), Cost per click (Cost/Clicks), Return on Ad Spend (Revenue/Spent) across four Facebook campaigns for the top performer per platform
+      •	ANOVA: Test Click-through rate (Clicks/Impressions), Conversion rate for leads (Leads/Clicks), Conversion rate for orders (Orders/Clicks), Cost per click (Cost/Clicks), Return on Ad Spend (Revenue/Spent) across four Facebook campaigns for the top performer per          platform
       
       •	ANOVA: Test the same as above across three Instagram campaigns for the top performer per platform
       
