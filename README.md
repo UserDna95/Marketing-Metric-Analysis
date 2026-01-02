@@ -36,6 +36,7 @@ This project analyzes digital marketing campaign performance using Excel and Pow
 
 ## STAGE 3️⃣
 
+<img width="1019" height="566" alt="2026-01-01" src="https://github.com/user-attachments/assets/f87ddf45-4df9-40c4-b312-c5ce44c35fb8" />
 
 ### 📌 Dataset
 
