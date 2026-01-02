@@ -16,6 +16,8 @@ It demonstrates a production-style analytics pipeline: data preparation → stat
 
 •	Excel Dashboards — executive-ready visualization
 
+
+
 ### 📈 Business Questions Answered
 
 •	Do campaign ROAS differences represent real performance gaps or random variation?
@@ -25,6 +27,8 @@ It demonstrates a production-style analytics pipeline: data preparation → stat
 •	How large is the impact of campaign selection on revenue efficiency?
 
 •	Which campaigns should be scaled, optimized, or deprioritized?
+
+
 
 ### 🧪 Analytical Workflow
 
@@ -37,6 +41,7 @@ Stage 1 — Data Preparation & Exploration (Excel)
 •	Engineered KPIs: CTR, Conversion Rate, CPC, ROAS
 
 •	Exploratory analysis and descriptive dashboarding
+
 
 Stage 2 — Statistical Analysis (Python / Jupyter)
 
@@ -52,6 +57,7 @@ Stage 2 — Statistical Analysis (Python / Jupyter)
 
 •	Exported validated results back to Excel
 
+
 Stage 3 — Decision Dashboard (Excel)
 
 •	Consumed Python outputs via Power Query (no recalculation)
@@ -61,6 +67,8 @@ Stage 3 — Decision Dashboard (Excel)
 •	Grouped campaigns into performance tiers: Scale, Maintain & optimize, Monitor, Deprioritize
 
 <img width="1019" height="566" alt="2026-01-01" src="https://github.com/user-attachments/assets/f87ddf45-4df9-40c4-b312-c5ce44c35fb8" />
+
+
 
 ### 📌 Dataset
 
