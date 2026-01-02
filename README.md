@@ -7,9 +7,13 @@ This project evaluates digital marketing campaign performance and determines whe
 It demonstrates a production-style analytics pipeline: data preparation → statistical validation → executive reporting.
 
 ### 🧰 Tools & Technologies
+
 •	Excel & Power Query — data ingestion, validation, metric engineering
+
 •	Python (Jupyter) — statistical testing & effect size estimation
+
 •	pandas, scipy, statsmodels — ANOVA, post-hoc analysis
+
 •	Excel Dashboards — executive-ready visualization
 
 ### 📈 Business Questions Answered
