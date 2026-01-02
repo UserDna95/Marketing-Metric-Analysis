@@ -7,13 +7,13 @@ This project analyzes digital marketing campaign performance using Excel and Pow
 
 ### 📁 Tools
 
-Excel
+👉 Excel
 
-Power Query
+👉 Power Query
 
-Pivot Tables
+👉 Pivot Tables
 
-Dashboarding
+👉 Dashboarding
 
 ### 🔢 Steps
 1.	Raw data ingestion (unchanged source)
@@ -21,13 +21,13 @@ Dashboarding
 3.	Structural normalization
 4.	Metric engineering
    
-   Click-through rate (CTR)
+  👉 Click-through rate (CTR)
    
-   Conversion rate (orders)
+  👉 Conversion rate (orders)
    
-   Cost per click (CPC)
+  👉 Cost per click (CPC)
    
-   Return on ad spend (ROAS)
+ 👉  Return on ad spend (ROAS)
 
 6.	Exploratory analysis
 7.	Executive dashboard
