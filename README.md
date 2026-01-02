@@ -59,9 +59,13 @@ Stage 3 — Decision Dashboard (Excel)
 •	Ranked campaigns by statistically validated performance
 
 •	Grouped campaigns into performance tiers:
+
    o	Scale
+   
    o	Maintain & optimize
+   
    o	Monitor
+   
    o	Deprioritize
 
 <img width="1019" height="566" alt="2026-01-01" src="https://github.com/user-attachments/assets/f87ddf45-4df9-40c4-b312-c5ce44c35fb8" />
