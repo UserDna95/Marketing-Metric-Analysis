@@ -74,5 +74,4 @@ It demonstrates a production-style analytics pipeline: data preparation → stat
 
 Source: Digital Marketing Metrics & KPIs to Measure (SQL)
 
-Source: Statistics Foundations | Coursera By META was incredibly useful in creating this mini-project
-
+Source: Statistics Foundations | Coursera By META helped create this mini-project
