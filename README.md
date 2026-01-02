@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign Performance Analysis (Excel + Power Query)
+# 📊 Marketing Campaign Performance Analysis 
 
 ## STAGE 1️⃣
 
