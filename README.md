@@ -17,29 +17,47 @@ It demonstrates a production-style analytics pipeline: data preparation → stat
 •	Excel Dashboards — executive-ready visualization
 
 ### 📈 Business Questions Answered
+
 •	Do campaign ROAS differences represent real performance gaps or random variation?
+
 •	Which campaigns statistically outperform others?
+
 •	How large is the impact of campaign selection on revenue efficiency?
+
 •	Which campaigns should be scaled, optimized, or deprioritized?
 
 ### 🧪 Analytical Workflow
+
 Stage 1 — Data Preparation & Exploration (Excel)
+
 •	Ingested raw marketing data (unchanged source)
+
 •	Automated data validation and normalization via Power Query
+
 •	Engineered KPIs: CTR, Conversion Rate, CPC, ROAS
+
 •	Exploratory analysis and descriptive dashboarding
 
-### Stage 2 — Statistical Analysis (Python / Jupyter)
+Stage 2 — Statistical Analysis (Python / Jupyter)
+
 •	Imported analysis-ready dataset from Excel
+
 •	Assumption testing (normality, variance equality)
+
 •	Applied Welch ANOVA due to heteroskedasticity
+
 •	Calculated effect size (η²) to quantify business impact
+
 •	Conducted Tukey HSD to identify statistically distinct campaigns
+
 •	Exported validated results back to Excel
 
-### Stage 3 — Decision Dashboard (Excel)
+Stage 3 — Decision Dashboard (Excel)
+
 •	Consumed Python outputs via Power Query (no recalculation)
+
 •	Ranked campaigns by statistically validated performance
+
 •	Grouped campaigns into performance tiers:
    o	Scale
    o	Maintain & optimize
