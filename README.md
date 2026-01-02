@@ -9,8 +9,11 @@ It demonstrates a production-style analytics pipeline: data preparation → stat
 ### 🧰 Tools & Technologies
 
 •	Excel & Power Query — data ingestion, validation, metric engineering
+
 •	Python (Jupyter) — statistical testing & effect size estimation
+
 •	pandas, scipy, statsmodels — ANOVA, post-hoc analysis
+
 •	Excel Dashboards — executive-ready visualization
 
 
