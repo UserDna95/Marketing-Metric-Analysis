@@ -32,7 +32,7 @@ It demonstrates a production-style analytics pipeline: data preparation → stat
 
 ### 🧪 Analytical Workflow
 
-Stage 1 — Data Preparation & Exploration (Excel)
+### Stage 1 — Data Preparation & Exploration (Excel)
 
 •	Ingested raw marketing data (unchanged source)
 
@@ -43,7 +43,7 @@ Stage 1 — Data Preparation & Exploration (Excel)
 •	Exploratory analysis and descriptive dashboarding
 
 
-Stage 2 — Statistical Analysis (Python / Jupyter)
+### Stage 2 — Statistical Analysis (Python / Jupyter)
 
 •	Imported analysis-ready dataset from Excel
 
@@ -58,7 +58,7 @@ Stage 2 — Statistical Analysis (Python / Jupyter)
 •	Exported validated results back to Excel
 
 
-Stage 3 — Decision Dashboard (Excel)
+### Stage 3 — Decision Dashboard (Excel)
 
 •	Consumed Python outputs via Power Query (no recalculation)
 
