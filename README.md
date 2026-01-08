@@ -74,4 +74,4 @@ It demonstrates a production-style analytics pipeline: data preparation → stat
 
 Source: Digital Marketing Metrics & KPIs to Measure (SQL) -> https://www.kaggle.com/datasets/sinderpreet/analyze-the-marketing-spending
 
-Source: Statistics Foundations | Coursera By META helped create this mini-project
+Source: Statistics Foundations | Coursera By META
